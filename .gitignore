@@ -35,6 +35,3 @@ htmlcov/
 .idea/
 .DS_Store
 Thumbs.db
-
-# Third-party dataset: download separately; do not commit without redistribution permission
-data/Advertising.csv
